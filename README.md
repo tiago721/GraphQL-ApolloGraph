@@ -1,35 +1,36 @@
-# Odyssey Lift-off IV: Mutations
+# Odyssey Lift-off 
 
-Welcome to the companion app of Odyssey Lift-off IV! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part4), Apollo's learning platform.
+Bem-vindo ao meu projeto Odyssey Lift-off IV! Aqui você encontra as lições e instruções do curso no Odyssey, a plataforma de aprendizado da Apollo.
 
-You can [preview the completed demo app here](https://lift-off-client-demo.netlify.app/).
+Você pode [visualizar a demonstração completa do aplicativo aqui](https://lift-off-client-demo.netlify.app/).
 
-## How to use this repo
+## Como usar este repositório
 
-The course will walk you step by step on how to implement the features you see in the demo app. This codebase is the starting point of your journey!
+O curso irá guiá-lo passo a passo sobre como implementar os recursos que você vê na demonstração do aplicativo. Este código é o ponto de partida da sua jornada!
 
-There are 3 main folders:
+Existem 3 pastas principais:
 
-- `server`: The starting point of our GraphQL server.
-- `client`: The starting point of our React application.
-- `final`: The final stage of both the server and client folders, with all of the steps and code completed!
+- `server`: O ponto de partida do nosso servidor GraphQL.
+- `client`: O ponto de partida da nossa aplicação React.
+- `final`: A etapa final das pastas servidor e cliente, com todos os passos e código concluídos!
 
-To get started:
+Para começar:
 
-1. Navigate to the `server` folder.
-1. Run `npm install`.
-1. Run `npm start`.
+1. Navegue até a pasta `server`.
+2. Execute `npm install`.
+3. Execute `npm start`.
 
-This will start the GraphQL API server.
+Isso iniciará o servidor da API GraphQL.
 
-In another Terminal window,
+Em outra janela do Terminal,
 
-1. Navigate to the `client` folder.
-1. Run `npm install`.
-1. Run `npm start`.
+1. Navegue até a pasta `client`.
+2. Execute `npm install`.
+3. Execute `npm start`.
 
-This will open up `localhost:3000` in your web browser.
+Isso abrirá `localhost:3000` no seu navegador.
 
-## Getting Help
+## Obtendo Ajuda
 
-For any issues or problems concerning the course content, please refer to the [Odyssey topic in our community forums](https://community.apollographql.com/tags/c/help/6/odyssey).
+Para quaisquer problemas relacionados ao conteúdo do curso, consulte o [tópico do Odyssey em nossos fóruns da comunidade](https://community.apollographql.com/tags/c/help/6/odyssey).
+
